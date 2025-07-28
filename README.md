@@ -71,7 +71,7 @@ I am Milad Majidi, with a master's degree in computer science.---
 ###
 
 <p align="center">
-  <a href="https://github.com/amircolgang">
+  <a href="https://github.com/miladmajidi">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=amircolgang&theme=tokyo-night&area=true&hide_border=true" alt="Imran's GitHub activity graph" />
   </a>
 </p>
