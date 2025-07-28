@@ -46,5 +46,5 @@ I am Milad Majidi, with a master's degree in computer science.---
 React.js         ████████████████████  90%
 Next.js          ████████████████░░░░  75%
 
-                                                                                                                                                  هوش مصنوعی       █████████████░░░░░░░  65%
+                                                                                                                                                  
 ###
