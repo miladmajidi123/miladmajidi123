@@ -1,91 +1,88 @@
 <div align="center">
 
 🎯 توسعه‌دهنده فرانت‌اند با تمرکز روی React.js  
-💼  زدن هر نوع فروشگاه با Next.js 
+💼 زدن هر نوع فروشگاه با Next.js  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&letterSpacing=&pause=1000&color=640000&background=100000&center=true&multiline=true&width=439&height=201&lines=Hi+i+Am++milad+Majidi++%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Full+Stack+Developer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Founder+Of+majidi+Co.+;isfahan+%F0%9F%8C%B3;esfahan+%F0%9F%87%AE%F0%9F%87%B7;%D9%85%D9%88%D9%81%D9%82+%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF+%E2%9C%8C)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&letterSpacing=&pause=1000&color=640000&background=100000&center=true&multiline=true&width=439&height=201&lines=Hi+i+Am+Milad+Majidi+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Full+Stack+Developer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Founder+Of+Majidi+Co.;Isfahan+%F0%9F%8C%B3;موفق+باشید+%E2%9C%8C)](https://git.io/typing-svg)
+
 </div>
-
 
 ---
 
+## 💬 درباره من:
+👋 من **میلاد مجیدی** هستم، برنامه‌نویس فرانت‌اند با تخصص در React و Next.js  
+🎓 دارای مدرک کارشناسی ارشد در مهندسی کامپیوتر  
+🤖 علاقه‌مند به ابزارهای هوش مصنوعی و طراحی فروشگاه‌های آنلاین  
 
+---
 
-I am Amircolgang, with a master's degree in computer science.---
+## 📫 راه‌های ارتباط با من:
 
+- اینستاگرام: [@miladmajidi](https://instagram.com/)
+- لینکدین: [Milad Majidi](https://linkedin.com/)
+- ایمیل: milad@example.com
 
-###
-
-<h1 align="left">Ways to contact me
-</h2>
-
-###
-
-
-
-###
+---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amircolgang/Amircolgang/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amircolgang/Amircolgang/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amircolgang/Amircolgang/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miladmajidi123/miladmajidi123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miladmajidi123/miladmajidi123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miladmajidi123/miladmajidi123/output/pacman-contribution-graph.svg">
 </picture>
-<a href="https://github.com/amirroox">
-  <img width="49%" height="180px" src="https://github-readme-stats-me-Amircolgang.vercel.app/api?username=      Amircolgang &number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&rank_icon=github&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="amir roox GitHub Stats" />
-</a>
-###
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
- 📊 مهارت‌های من:
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amircolgang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amircolgang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amircolgang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amircolgang&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amircolgang&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amircolgang&icon=9&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-###
+## 📊 آمار گیت‌هاب من:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amircolgang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=miladmajidi123&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladmajidi123&layout=compact&theme=radical" height="150" />
 </div>
 
-###
+---
 
-###
+## 🧠 مهارت‌های من:
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next JS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-00C853?style=for-the-badge&logo=google&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏆 تروفی‌های گیت‌هاب من:
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=miladmajidi123&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🔥 گراف فعالیت‌های گیت‌هاب:
 
 <p align="center">
-  <a href="https://github.com/Amircolgang">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amircolgang&theme=tokyo-night&area=true&hide_border=true" alt="Imran's GitHub activity graph" />
+  <a href="https://github.com/miladmajidi123">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miladmajidi123&theme=tokyo-night&area=true&hide_border=true" />
   </a>
 </p>
-###
+
+---
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-###
-# Master's Degree Front End Computer Programmer
-## WordPress expert
-### Working with artificial intelligence tools
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milad-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milad-dev&layout=compact)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+---
+
+## ✍️ نقل‌قول تصادفی برنامه‌نویسی:
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=miladmajidi123&icon=9&color=13)](https://visitcount.itsvg.in)
+
+---
+
