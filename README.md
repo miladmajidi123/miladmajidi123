@@ -11,8 +11,8 @@
 ---
 
 
-Milad Majidi 
----
+
+I am Milad Majidi, with a master's degree in computer science.---
 
 
 ###
