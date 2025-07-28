@@ -54,7 +54,7 @@ I am Milad Majidi, with a master's degree in computer science.---
 ![](https://github-contributor-stats.vercel.app/api?username=Amircolgang&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amircolgang&icon=9&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=milad majidi &icon=9&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
