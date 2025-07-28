@@ -42,21 +42,21 @@ I am Milad Majidi, with a master's degree in computer science.---
 
  📊 مهارت‌های من:
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amircolgang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amircolgang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amircolgang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=milad majidi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=milad majidi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=milad majidi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amircolgang&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=milad majidi&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amircolgang&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=milad majidi&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amircolgang&icon=9&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=milad majidi&icon=9&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -65,7 +65,7 @@ I am Milad Majidi, with a master's degree in computer science.---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=milad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amircolgang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milad majidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -73,8 +73,8 @@ I am Milad Majidi, with a master's degree in computer science.---
 ###
 
 <p align="center">
-  <a href="https://github.com/amircolgang">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amircolgang&theme=tokyo-night&area=true&hide_border=true" alt="Imran's GitHub activity graph" />
+  <a href="https://github.com/milad majidi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=milad majidi&theme=tokyo-night&area=true&hide_border=true" alt="Imran's GitHub activity graph" />
   </a>
 </p>
 ###
