@@ -17,7 +17,8 @@ I am Milad Majidi, with a master's degree in computer science.---
 
 ###
 
-<p align="left">Hi Body I am Amir Hossin Shirazii</p>
+<h1 align="left">Ways to contact me
+</h2>
 
 ###
 
